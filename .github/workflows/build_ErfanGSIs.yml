@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: http://fs.oppo.com/3/oppowww/androidrom/pbem00P/PBEM00_11_OTA_1120_all_afcES03rBj5y.ozip
+  ROM_NAME: ColorOS
   TZ: Asia/Shanghai
 
 jobs:
